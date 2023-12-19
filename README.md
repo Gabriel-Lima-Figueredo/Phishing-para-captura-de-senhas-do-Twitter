@@ -13,4 +13,4 @@
 
 ### Resutados
 
-![Alt text](./Phishing.png "Optional title")
+![Alt text](./Phishing "Optional title")
